@@ -1,0 +1,480 @@
+{
+   "accessors" : [
+      {
+         "bufferView" : 3,
+         "componentType" : 5126,
+         "count" : 24,
+         "max" : [ 0.1499999910593033, 0.04999999701976776, 0.1499999910593033 ],
+         "min" : [ -0.1499999910593033, 0, -0.1499999910593033 ],
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 4,
+         "componentType" : 5126,
+         "count" : 24,
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 5,
+         "componentType" : 5126,
+         "count" : 24,
+         "type" : "VEC2"
+      },
+      {
+         "bufferView" : 6,
+         "componentType" : 5125,
+         "count" : 36,
+         "max" : [ 23 ],
+         "min" : [ 0 ],
+         "type" : "SCALAR"
+      },
+      {
+         "bufferView" : 10,
+         "componentType" : 5126,
+         "count" : 24,
+         "max" : [ 0.09999999403953552, 0.5999999642372131, 0.09999999403953552 ],
+         "min" : [ -0.09999999403953552, 0, -0.09999999403953552 ],
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 11,
+         "componentType" : 5126,
+         "count" : 24,
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 12,
+         "componentType" : 5126,
+         "count" : 10600,
+         "max" : [ 0.199999988079071, 0.6292908191680908, 0.199999988079071 ],
+         "min" : [ -0.199999988079071, 0.5792908072471619, -0.199999988079071 ],
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 13,
+         "componentType" : 5126,
+         "count" : 10600,
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 14,
+         "componentType" : 5126,
+         "count" : 10600,
+         "type" : "VEC2"
+      },
+      {
+         "bufferView" : 15,
+         "componentType" : 5125,
+         "count" : 15600,
+         "max" : [ 10599 ],
+         "min" : [ 0 ],
+         "type" : "SCALAR"
+      }
+   ],
+   "asset" : {
+      "copyright" : "2019 (c) Adobe Inc.",
+      "extras" : {
+         "GOOGLE_processor_version" : 306158326
+      },
+      "generator" : "Adobe Dimension - 0e7afd3ecfb022815b671af3f21d3bb00bdc6e74",
+      "version" : "2.0"
+   },
+   "bufferViews" : [
+      {
+         "buffer" : 0,
+         "byteLength" : 1,
+         "byteOffset" : 0
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 1,
+         "byteOffset" : 0
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 1,
+         "byteOffset" : 0
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 288,
+         "byteOffset" : 4,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 288,
+         "byteOffset" : 292,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 192,
+         "byteOffset" : 580,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 144,
+         "byteOffset" : 772,
+         "target" : 34963
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 1,
+         "byteOffset" : 0
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 1,
+         "byteOffset" : 0
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 1,
+         "byteOffset" : 0
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 288,
+         "byteOffset" : 920,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 288,
+         "byteOffset" : 1208,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 127200,
+         "byteOffset" : 1496,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 127200,
+         "byteOffset" : 128696,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 84800,
+         "byteOffset" : 255896,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 62400,
+         "byteOffset" : 340696,
+         "target" : 34963
+      }
+   ],
+   "buffers" : [
+      {
+         "byteLength" : 403096,
+         "uri" : "F.bin"
+      }
+   ],
+   "cameras" : [
+      {
+         "name" : "render_camera",
+         "perspective" : {
+            "aspectRatio" : 1.333333373069763,
+            "yfov" : 0.6024156808853149,
+            "zfar" : 2,
+            "znear" : 1.729851283016615e-05
+         },
+         "type" : "perspective"
+      },
+      {
+         "perspective" : {
+            "yfov" : 0.7853981633974483,
+            "znear" : 0.1000000014901161
+         },
+         "type" : "perspective"
+      }
+   ],
+   "extensions" : {
+      "KHR_lights_punctual" : {
+         "lights" : [
+            {
+               "color" : [ 1, 0.9333333333333333, 0.8666666666666667 ],
+               "intensity" : 0.25,
+               "name" : "headLight",
+               "type" : "directional"
+            },
+            {
+               "color" : [ 1, 0.9333333333333333, 0.8666666666666667 ],
+               "intensity" : 0.324999988079071,
+               "name" : "keyLight",
+               "type" : "directional"
+            }
+         ]
+      }
+   },
+   "extensionsUsed" : [ "GOOGLE_backgrounds", "GOOGLE_camera_settings", "KHR_lights_punctual" ],
+   "extras" : {
+      "GOOGLE_initial_camera_motion" : {
+         "motionPath" : "FULL_ROTATION"
+      },
+      "GOOGLE_lighting_rig" : {
+         "disableShadows" : false
+      }
+   },
+   "images" : [
+      {
+         "uri" : "image0.jpg"
+      },
+      {
+         "uri" : "image1.jpg"
+      },
+      {
+         "uri" : "image2.png"
+      },
+      {
+         "uri" : "image3.jpg"
+      },
+      {
+         "uri" : "image4.jpg"
+      },
+      {
+         "uri" : "image5.png"
+      }
+   ],
+   "materials" : [
+      {
+         "alphaCutoff" : 0.5,
+         "alphaMode" : "OPAQUE",
+         "doubleSided" : false,
+         "emissiveFactor" : [ 0, 0, 0 ],
+         "name" : "Spotted Marble",
+         "normalTexture" : {
+            "index" : 2,
+            "scale" : 1
+         },
+         "pbrMetallicRoughness" : {
+            "baseColorTexture" : {
+               "index" : 0
+            },
+            "metallicFactor" : 0.5764706134796143,
+            "metallicRoughnessTexture" : {
+               "index" : 1
+            },
+            "roughnessFactor" : 1
+         }
+      },
+      {
+         "alphaCutoff" : 0.5,
+         "alphaMode" : "OPAQUE",
+         "doubleSided" : false,
+         "emissiveFactor" : [ 0, 0, 0 ],
+         "name" : "Veined Marble",
+         "normalTexture" : {
+            "index" : 5,
+            "scale" : 1
+         },
+         "pbrMetallicRoughness" : {
+            "baseColorTexture" : {
+               "index" : 3
+            },
+            "metallicFactor" : 0,
+            "metallicRoughnessTexture" : {
+               "index" : 4
+            },
+            "roughnessFactor" : 1
+         }
+      }
+   ],
+   "meshes" : [
+      {
+         "name" : "MODEL_CUBE_PART_1_N3D_N3D",
+         "primitives" : [
+            {
+               "attributes" : {
+                  "NORMAL" : 1,
+                  "POSITION" : 0,
+                  "TEXCOORD_0" : 2
+               },
+               "indices" : 3,
+               "material" : 0
+            }
+         ]
+      },
+      {
+         "name" : "MODEL_CUBE_PART_1_N3D2_N3D",
+         "primitives" : [
+            {
+               "attributes" : {
+                  "NORMAL" : 5,
+                  "POSITION" : 4,
+                  "TEXCOORD_0" : 2
+               },
+               "indices" : 3,
+               "material" : 1
+            }
+         ]
+      },
+      {
+         "name" : "MODEL_ROUNDED_CYLINDER_PART_1_N3D_N3D",
+         "primitives" : [
+            {
+               "attributes" : {
+                  "NORMAL" : 7,
+                  "POSITION" : 6,
+                  "TEXCOORD_0" : 8
+               },
+               "indices" : 9,
+               "material" : 0
+            }
+         ]
+      }
+   ],
+   "nodes" : [
+      {
+         "camera" : 0,
+         "name" : "render_camera_n3d",
+         "rotation" : [
+            -0.1205904707312584,
+            0.379409521818161,
+            0.04995020851492882,
+            0.9159756302833557
+         ],
+         "scale" : [ 1, 1, 0.9999999403953552 ],
+         "translation" : [ 0.4302209317684174, 0.2999999821186066, 0.4143738746643066 ]
+      },
+      {
+         "children" : [ 2, 3, 4 ],
+         "name" : "Pedestal",
+         "translation" : [ -4.76837147544984e-09, 0.02499999850988388, 0 ]
+      },
+      {
+         "mesh" : 0,
+         "name" : "Cube",
+         "translation" : [ 0, -0.02499999850988388, 0 ]
+      },
+      {
+         "mesh" : 1,
+         "name" : "MODEL_CUBE_PART_1 2"
+      },
+      {
+         "mesh" : 2,
+         "name" : "Rounded Cylinder"
+      },
+      {
+         "children" : [ 6 ]
+      },
+      {
+         "children" : [ 7 ],
+         "extras" : {
+            "isTransformNode" : 1
+         },
+         "translation" : [ -0.001649897558746393, 0.3352165510448316, 0.001635727044194936 ]
+      },
+      {
+         "children" : [ 0, 1 ],
+         "translation" : [ 0.001649897558746393, -0.3352165510448316, -0.001635727044194936 ]
+      },
+      {
+         "camera" : 1,
+         "children" : [ 9 ],
+         "rotation" : [
+            0.000133263256928682,
+            0.9998453182987413,
+            0.01527046672657422,
+            -0.008725512188144931
+         ],
+         "translation" : [ -0.03268650528092482, 0.3895947902845789, -1.777263059050781 ]
+      },
+      {
+         "extensions" : {
+            "KHR_lights_punctual" : {
+               "light" : 0
+            }
+         },
+         "extras" : {
+            "isHeadLight" : 1
+         },
+         "name" : "headLightNode",
+         "translation" : [ -0.728357520694489, 0.3641787603472445, 0.3641787603472445 ]
+      },
+      {
+         "extensions" : {
+            "KHR_lights_punctual" : {
+               "light" : 1
+            }
+         },
+         "extras" : {
+            "isKeyLight" : 1
+         },
+         "name" : "keyLightNode",
+         "rotation" : [ -0.7505326882858236, -0.3752663441429118, 0, 0.5439447166468927 ],
+         "scale" : [ 0, 0, 0.7356410959014339 ],
+         "translation" : [ -0.7356411085619069, 2.098525061748779, -0.7356410850976407 ]
+      }
+   ],
+   "samplers" : [ {}, {}, {}, {}, {}, {} ],
+   "scene" : 0,
+   "scenes" : [
+      {
+         "extensions" : {
+            "GOOGLE_backgrounds" : {
+               "color" : [ 0.4509803921568628, 0.4509803921568628, 0.4509803921568628 ]
+            },
+            "GOOGLE_camera_settings" : {
+               "mode" : "movableOrbit",
+               "pivot" : [ -0.001635731812566488, 0.3352361990185841, 0.001635727044194568 ]
+            }
+         },
+         "extras" : {
+            "GOOGLE_camera_index" : {
+               "cameraIndex" : 1,
+               "nodeIndex" : 8
+            },
+            "GOOGLE_geometry_data" : {
+               "stats" : {
+                  "centroid" : [ -1.26604730054696e-08, 0.6272428699459106, 1.080379322193066e-08 ],
+                  "radius" : 0.728357520694489,
+                  "stdev" : 0.1884725072794142
+               },
+               "visualCenterPoint" : [ -0.001649897558746393, 0.3352165510448316, 0.001635727044194936 ]
+            }
+         },
+         "name" : "scene",
+         "nodes" : [ 5, 8, 10 ]
+      }
+   ],
+   "textures" : [
+      {
+         "name" : "basecolor_image_texture",
+         "sampler" : 0,
+         "source" : 0
+      },
+      {
+         "name" : "roughness_image_texture",
+         "sampler" : 1,
+         "source" : 1
+      },
+      {
+         "name" : "normal_image_texture",
+         "sampler" : 2,
+         "source" : 2
+      },
+      {
+         "name" : "basecolor_image_texture",
+         "sampler" : 3,
+         "source" : 3
+      },
+      {
+         "name" : "roughness_image_texture",
+         "sampler" : 4,
+         "source" : 4
+      },
+      {
+         "name" : "normal_image_texture",
+         "sampler" : 5,
+         "source" : 5
+      }
+   ]
+}
